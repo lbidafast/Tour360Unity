@@ -1,0 +1,26 @@
+{
+    "name": "CrizGames.Vour.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4f98317a267baca40a283e84dc7ce027",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:a42927d1d4a3b4cda9b076a7adecb9cc",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:f9fe0089ec81f4079af78eb2287a6163",
+        "GUID:4847341ff46394e83bb78fbd0652937e",
+        "GUID:96aa6ba065960476598f8f643e7252b6",
+        "GUID:a9582160ded7e3c46829c5005bf42835"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
