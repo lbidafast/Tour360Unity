@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Vour/Sample/Urban Imagens/DemoTour - Apt Parque.unity
+    path: Assets/Urban Imagens/DemoTour - Apt Parque.unity
     guid: d1c3109bdb54ad55c8a2b2838528e640
   - enabled: 0
     path: Assets/Vour/Sample/DemoTour_3DScene.unity
